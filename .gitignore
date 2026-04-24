@@ -1,0 +1,4 @@
+bin/filesys
+*.o
+.DS_Store
+fat32.img
